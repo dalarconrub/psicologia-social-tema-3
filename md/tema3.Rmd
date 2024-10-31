@@ -1,0 +1,745 @@
+
+TEMA 3: PROCESOS DE ATRIBUCIÓN 
+
+- atribución ✔ atribución defensiva ✔ atribución disposicional o interna 
+- atribución situacional o externa ✔ controlabilidad ✔ efecto actor-observador  
+  - error fundamental de la atribución ✔ esquemas causales ✔ estabilidad  
+    - falso consenso ✔ inferencia correspondiente ✔ locus de causalidad ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.192.png)
+      - personalismo ✔ relevancia hedónica ✔ sesgo atributivo 
+
+Los  procesos  de  atribución  son  un  área  de  la  **cognición  social**  y  están estrechamente relaciones con la **percepción** de personas y grupos. 
+
+Una  **atribución**  es  una  explicación  que  elaboramos  sobre  **las  causas  de  la ![ref8]conducta** de los demás y de uno mismo. Nos ayuda a  dar sentido, manejar y predecir el mundo social.
+
+Día a día se nos presentan acontecimientos que nos hacen plantearnos ***“¿por qué?”*:** un vecino no nos saluda, un compañero nos pone mala cara, dos personas discuten por la calle, alguien va con un paraguas haciendo sol, vas a comer y te das cuenta de que no tienes hambre… Cuando se generan atribuciones, independientemente de poder confirmarlas o no, es más fácil seguir adelante.
+
+Todas estas situaciones:
+
+- Son **inesperadas**. 
+- Son fundamentalmente **negativas** 
+- Te hacen sentir que **pierdes el control** sobre los acontecimientos
+
+Weiner (1980) plantea tres preguntas fundamentales:
+
+1) ¿Cuáles son las **causas** percibidas de un hecho? 
+1) ¿Qué  **información** se tiene en cuenta en la búsqueda de explicaciones de los acontecimientos?
+1) ¿Qué **consecuencias** tiene la atribución causal?
+
+En los procesos atributivos  la causa  es  **inferida** [^7], no directamente observable, siendo principalmente procesos centrados en fenómenos cotidianos y psicológicos a los que las personas dan **explicaciones ingenuas** o de **sentido común**. 
+
+Estas teorías sobre la atribución se conocen como “***Psicología ingenua de la vida diaria”***  donde  los  seres  humanos  se  conciben  como  ***científicos  ingenuos***  que utilizan  inferencias de sentido común para explicar la  conducta de las personas (Fiske y Taylor). 
+
+El **objetivo** de estos modelos era construir una teoría científica sobre la manera en la que funciona el **sentido común**. ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.193.png)
+
+Se resalta la existencia de **factores motivacionales** y **emocionales** que interfieren en la atribución, ya que permiten la  **adaptación humana** dando a las personas sentido y percepción de control sobre su ambiente.
+
+Hewstone (1989) muestra la globalidad, importancia e implicaciones que tienen los procesos de atribución para el comportamiento humano:
+
+- Las atribuciones participan en los procesos de percepción y evaluación de los hechos sociales y lo hacen de forma diferente según si las personas son **actoras** u **observadoras** del hecho. 
+- Se ven influidas por la  **categorización o asociación** de las personas a un grupo. 
+- Cuando se transmiten por comunicación intrapersonal pueden llegar a ser compartidas por todo el grupo en forma de **representaciones sociales.**
+
+En todos los análisis **la atribución es social**, si se considera que:
+
+1) Su  **origen** reside en la información social y es influida por la interacción social. 
+1) Su **objeto** es un acontecimiento que tiene que ver con personas o que tiene consecuencias sociales. 
+1) Es **compartida** por los miembros de un grupo o sociedad.
+1. ¿CUÁNDO SE PRODUCE EL PROCESO DE ATRIBUCIÓN CAUSAL? ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.194.png)
+
+Los seres humanos perciben el mundo en términos de **causa** y **efecto**, por lo que los investigadores de la atribución se preguntan si existen los  **análisis causales espontáneos** y cuales las causas que hacen que esto ocurra.
+
+De esta forma, los informes escritos y los trabajos en los que no se pide o se fuerza a los participantes a que realicen atribuciones muestran que  **sí se produce un ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.195.png)análisis  espontáneo  de  los  acontecimientos**.  Además,  los  individuos  no  son conscientes de su intención de realizar atribuciones, ni siquiera se dan cuenta de 
+
+haber hecho una inferencia causal  (Uleman, 1989).  Se buscan las causas tanto cuando  se  trata  de  las  **características  de  una  persona**,  como  cuando  es  un **acontecimiento físico** o una **acción**. 
+
+Sin embargo, **esto no ocurre en todas las situaciones**: *no nos planteamos por qué espera una persona en la cola del autobús o en la taquilla del cine*. 
+
+**Situacion**es  en  las  que  existe  una  **MAYOR  PROBABILIDAD  DE  HACER  UN PROCESO ATRIBUTIVO**: 
+
+1) ACONTECIMIENTOS  INESPERADOS  o  que  se  desvían  del  curso  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.196.png)normal de la acción: que nuestro mejor amigo nos niegue ayuda o que  un tratamiento médico empeore nuestra salud. ![ref12]
+2) OBJETIVOS NO LOGRADOS: suspender un examen o perder una competición deportiva. Fosterling (2001): 
+- Si  **encontramos  una  explicación**  que  nos  permita  mantener  nuestras teorías ingenuas previas: 
+  - El proceso puede automatizarse.  
+  - Estas  teorías  guiarán  nuestro  comportamiento  sin  que  nos  demos cuenta. 
+- Si el hecho **no encaja en nuestros sistemas previos**: ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.197.png)
+- Necesitaremos  revisar  nuestras  teorías  iniciando  una  búsqueda voluntaria que dé respuesta a la ocurrencia del acontecimiento. ![ref3]
+
+Las explicaciones de lo **inesperado** se han asociado con **las respuestas básicas ![ref4]a los estímulos nuevos** hasta el punto de considerar que el análisis atributivo puede ser ejemplo de una  **conducta exploratoria general** provocada por la **incertidumbre**  (Weiner,  1985)  y  teniendo  el  **control**  como  principio motivacional (Heider, 1958). ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.198.png)
+
+Se entendería la **necesidad de control** como una motivación que ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.199.png)pueda  satisfacerse  con  la  explicación  cuando  recibimos  un estímulo que nos produce incertidumbre, es decir, **la atribución tendría un carácter funcional.** 
+
+3) **ANTE FALLOS O FRACASOS,** pero cuando son comparados con éxitos ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.200.png)(Wong y Weiner, 1981). Los pacientes que  incumplían el  tratamiento  médico  hacían  más  atribuciones  de  su  comportamiento  que  los  enfermos que lo cumplían (Nouvilas, 2003).  
+
+   En general, se buscan explicaciones de los **acontecimientos negativos** (como las catástrofes), pero los **éxitos** pueden ser una experiencia igualmente intensa como para provocar explicaciones causales.
+
+ESTUDIO:  ATRIBUCIÓN  ÉXITO/FRACASO  EN  EXAMEN  (Manassero  y ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.201.png)Vázquez, 1995). 
+
+Consistía en observar que los alumnos que habían obtenido objetivamente un éxito y lo percibían como fracaso desarrollaban una actividad atributiva, pudiendo ser debido a la desconfirmación de expectativas o a lo inesperado del acontecimiento.
+
+- *Un notable puede percibirse como fracaso si se esperaba un sobresaliente.* No es la realidad objetiva la que influye en nuestros pensamientos, sentimientos y conductas, sino nuestra interpretación de esa realidad. 
+2. ¿QUÉ FUNCIONES TIENEN LAS ATRIBUCIONES? ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.202.png)
+
+Las  atribuciones  nos  sirven  para  sentir  que  tenemos  control  sobre  nuestro ambiente  **(control  efectivo),**  que  salimos  airosos  de  las  situaciones **(autoensalzamiento)** y que mantenemos una buena imagen ante los demás y ante nosotros mismos **(imagen positiva)**. ![ref12]
+
+Kelly y Michela (1980) asocia estas motivaciones con las **funciones que se asocian a la atribución**: 
+
+1. FUNCIÓN  DE  CONTROL:  el  objetivo  del  análisis  causal  era  el  control efectivo. 
+
+   *(percepción de control = consecuencias positivas / pérdida de control = consecuencias negativas)* 
+
+   Realizar  una  atribución  (encontrar  explicación),  ya  sea  correcta  o incorrecta,  de  algo  facilita  que  podamos  **predecir  acontecimientos parecidos** y, por tanto, nos proporciona una percepción de control. 
+
+   Se habla de dos funciones dentro de la función de **control** (Forsyth, 1980): **EXPLICACIÓN** y **PREDICCIÓN**:  
+
+- El conocimiento que se adquiere en la  **explicación** se utiliza para tener el control sobre uno mismo y manejar el ambiente. 
+- El **científico ingenuo** se convierte en un  **científico aplicado** cuyo análisis causal le sirve para: ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.203.png)
+- **Anticipar** lo que le va a ocurrir  *aspectos complementarios ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.204.png)*
+- **Confirmar** sus atribuciones ingenuas.  ↑ *percepción de control* 
+2. FUNCIÓN DE  AUTOESTIMA: motivación  **egocéntrica** (Forsyth, 1980). El proceso  de  análisis  racional  de  la  información  puede  **sesgarse**  para mantener la autoestima. Es evidente en el contexto de los logros:
+- Atribución de **éxito**: factores **internos** y **estables**. 
+
+  *He aprobado porque tengo buen nivel.*
+
+- Atribuciones de **fracaso**: factores **externos** e **inestables**. 
+
+  *He suspendido porque el examen era demasiado rebuscado.*
+
+3. FUNCIÓN DE AUTOPRESENTACIÓN: motivación de presentarse a uno mismo de una manera favorable (Kelley y Michela, 1980) para ser aceptado por los demás → motivo básico de pertenencia.
+
+   Mediante nuestras explicaciones intentamos controlar las atribuciones de las otras personas sobre nosotros y nuestro comportamiento, así, al **manipular la información que reciben** los demás mediante nuestra **autopresentación**, controlamos su percepción.
+
+
+3\.** TEORÍAS CLÁSICAS DE LA ATRIBUCIÓN![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.205.png)
+
+1. Psicología ingenua de la acción (HEIDER) 
+
+**Heider  (1958)**  aportó  las  **bases  fundamentales![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.206.png)**
+
+sobre las que se desarrollan el resto de las teorías de ![ref8]la atribución. Su teoría de  **Psicología  Ingenua** se basa  en  la  idea  de  las  personas  intentan **comprender,  controlar  y  predecir** los acontecimientos que les afectan.
+
+Análisis ingénuo de la acción Atribución de la responsabilidad El principio de covariación 
+
+
+
+Esta teoría establece un paralelismo entre un  **científico** y las  **personas ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.207.png)en general**: ambos emplean la  **observación** para formar sus teorías o creencias sobre lo que ocurre a su alrededor, que confirmarán, refutarán 
+
+- modificarán con cada nueva observación. Estas creencias o teorías influyen en el comportamiento de las personas.
+1. El análisis ingenuo de la acción
+
+**«Locus de causalidad»** o búsqueda de la causa que origina un comportamiento.  
+
+*Comprender **«por qué»** una persona se comporta de una determinada manera.*
+
+Cuando realizamos un comportamiento (ej: ayudar a un  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.208.jpeg)compañero en un trabajo de ciencias) la causa de esta  conducta puede ser de **localización**:  
+
+- **Interna,  disposicional  o  personal:**  nuestros  conocimientos en la materia y nuestra motivación  para ayudar.  
+- **Externa,  situacional  o  ambiental:**  que  el  trabajo sea fácil o tengamos suerte. 
+
+Sin embargo, también puede deberse a la combinación  de factores ambientales y personales, de manera que,  según  aumenta  la  percepción  de  la  participación  de  **aspectos personales**, disminuye la influencia percibida  de  los  **aspectos  ambientales**,  y  viceversa.  Será  la  **conjunción** entre las fuerzas ambientales y personales  **la que determine la acción**.  
+
+- percepción asp. personales = ↓ contribución percibida asp. ambientales 
+
+Las **fuerzas personales** tienen componentes de: 
+
+- **Capacidad**: física y/o mental para realizar una acción → *componente **estable.***
+- **Motivación**: que impulsa y dirige la acción → *componente **variable** y **controlable***
+- Intención 
+
+*(dentro de la motivación)* 
+
+- Esfuerzo 
+
+Las **fuerzas ambientales** tienen componentes de:
+
+- **Dificultad de la tarea** o del objetivo → _componente **estable**_**.** 
+- **Suerte** → *componente **variable**.* 
+
+**La relación** entre ambos tipos de fuerzas nos permite realizar una atribución a la persona o una atribución a la situación. ![ref12]
+
+EL ESFUERZO: **RELACIÓN ENTRE FACTORES PERSONALES Y SITUACIONALES** Existe una relación entre los factores personales y ambientales: el **esfuerzo** tiene: 
+
+- una relación directamente proporcional con la **dificultad de la** **tarea** ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.209.png)
+  - dificultad de la tarea = ↑ esfuerzo 
+- una relación inversamente proporcional con la **capacidad** 
+  - capacidad = ↓ esfuerzo 
+
+Existe el ***poder*** (la posibilidad) de realizar la acción con éxito cuando la **capacidad** del actor es superior a la **dificultad de la tarea**, o ésta se combina con la **suerte**. 
+
+Éxito = capacidad (+ suerte) > dificultad de la tarea Las asociaciones entre estos elementos en el proceso atributivo permiten: 
+
+- realizar **predicciones** sobre el éxito o fracaso de una acción concreta. 
+- el **análisis causal** una vez realizada la acción. 
+
+Para ayudar a un compañero en su trabajo de ciencias se necesita  motivación para intentarlo y capacidad para realizarlo.  
+
+Sin embargo, que se pueda o no ayudar al compañero dependerá de la combinación de la motivación y la capacidad con los factores ambientales:  
+
+- Si nuestra capacidad y motivación son suficientes para la dificultad de la tarea. 
+- Si la dificultad de la tarea es superior no se podrá, a menos que intervenga la suerte como, por ejemplo, encontrar justo la información que resuelve las cuestiones que quien ayuda desconoce.
+
+![ref16]El observador o perceptor hará una **atribución interna** de la conducta del actor cuando ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.211.png)![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.212.png)![ref17]
+
+observe que este tiene la **capacidad** y la **intención o motivación** de llevarla a cabo.  
+
+En cambio, atribuirá la conducta del actor a una **causa externa o ambiental** cuando la **dificultad de la tarea** exceda la **capacidad** de este o no perciba en él la **motivación** de realizar dicha conducta. 
+
+2. La atribución de responsabilidad
+
+Sabemos quién ha sido el actor de un acontecimiento si lo observamos, pero no sabemos hasta qué punto esa persona es **responsable** de lo ocurrido **o** si ha sido un **accidente**. El **nivel de responsabilidad** aumentará a medida que la acción sea más  atribuible  a  **fuerzas  personales**  (motivación  y  capacidad)  que  a  fuerzas situacionales (dificultad de la tarea o suerte).
+
+- atribución a fuerzas personales = ↑ responsabilidad ![ref12]
+
+Heider distingue **cinco niveles de responsabilidad**: 
+
+1. ASOCIACIÓN:  no  existe  conexión  causal  con  la  conducta.  Se  atribuye  la responsabilidad de un acto  **a alguien que no lo haya realizado**, aunque sí existe alguna relación con el actor real o con la situación. Cuando un niño rompe un cristal con un balón y el profesor castiga a todos los niños que estaban jugando.
+1. CAUSALIDAD SIMPLE: el actor sí ha realizado la acción de la que se le hace responsable, pero **no ha tenido intención de hacerlo**. Un niño que está aprendiendo a montar en bicicleta lesiona a otro sin querer al pasar por él. 
+1. PREVISIBILIDAD: igual que la anterior, sólo que **el observador juzga** que el actor **podría haber previsto** lo ocurrido. El niño que bajaba rápido la cuesta lesiona a otro sólo por querer demostrar a sus amigos lo rápido que puede bajar la cuesta.
+1. INTENCIONALIDAD: se le **atribuye intención al actor**. El observador puede realizar una atribución interna de la acción: existen motivación y oportunidad. El niño tenía intención de causar daño con su acción.
+1. JUSTIFICABILIDAD:  casos  en  los  que  se  pueda  **justificar**  la  acción intencionada por exigidos **por la situación**. 
+
+   El niño que va en bicicleta hace una maniobra que lesiona a un niño, pero la maniobra la hace para evitar que éste pegue a su hermano pequeño.
+
+3. El principio de covariación 
+
+Según este principio, puede atribuirse  un efecto a una causa que está  **presente** cuando el efecto tiene lugar y que está **ausente** cuando el efecto no se produce. 
+
+Este principio de Heider es la base de:
+
+- Modelo de covariación de Kelley 
+- Teoría de las inferencias correspondientes de Jones y Davis (profundiza en la atribución disposicional interna).
+2. Teoría de las inferencias correspondientes (Jones y Davis)
+
+   Continúan la línea de trabajo de Heider, pero centrándose en las **atribuciones internas.** 
+
+Para  Jones y Davis, la realización de una  **inferencia disposicional o atribución interna** es un proceso que consta de dos etapas u objetivos: 
+
+- La atribución de intención 
+- La inferencia correspondiente
+
+En esta perspectiva, **el objetivo del perceptor** es  **inferir el antecedente causal**, es decir, la causa que explique el comportamiento del autor. Por ello, la búsqueda termina  cuando  se  establece  que  un  motivo  tiene  la  cualidad  de  ser  la  razón suficiente que explica la forma en que ocurre un determinado acontecimiento.
+
+- buscar explicaciones **estables e informativas![ref12]**
+
+La conducta del autor será más informativa si se juzga que es  **intencionada** y se debe a una intención **consistente** *(no variable)*, es decir, que corresponde a alguna cualidad estable subyacente del autor. 
+
+Estos autores estudian el **proceso a través del cuál se obtiene la información** que permite hacer este tipo de afirmaciones o interpretaciones del comportamiento de los demás.  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.214.png)
+
+el perceptor observa la acción + alguno de sus efectos → decide qué efectos intentaba conseguir con la conducta  
+
+El modelo se basa en la situación en la que el perceptor observa una acción y alguno de sus efectos, es entonces cuando tiene que decidir cual de esos efectos tiene que conseguir el actor con su conducta. 
+
+Para ello, el **actor** deberá tener:
+
+- **Conocimiento** de los efectos de su acción
+- **Capacidad** para conseguir el efecto deseado.
+
+En  este  punto,  se  resalta  el  papel  del  **conocimiento**  y  la  **capacidad**  como precondiciones  para  la  **atribución  de  intención**,  de  la  misma  forma  que,  la **intención**  es  una  precondición  para  realizar  las  **inferencias**  respecto  a  las **características estables subyacentes asociadas a la acción** de la persona.
+
+conocimiento + capacidad → atribución de intención 
+
+intención → inferencias de características estables subyacentes de la  acción 
+
+![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.215.jpeg)
+
+3\.2.1  La inferencia correspondiente
+
+El concepto fundamental de la teoría de las inferencias correspondientes es el de **correspondencia** siendo ésta la unión entre un **atributo o característica personal ![ref8]**y un **efecto**, que se ofrece para explicar por qué ocurre un acto.  ![ref12]
+
+Es decir, cuando se hace una inferencia correspondiente, el perceptor, juzga que la conducta del actor está causada por  *(se corresponde con)* un determinado  **rasgo interno y estable** *(una disposición)* de esa persona, rasgo que ha **inferido**[^8] a partir 
+
+de su conducta.
+
+Para  realizar  una  inferencia  correspondiente  empleamos  **5  elementos informativos:**
+
+1. La conducta elegida libremente es más indicativa de una **disposición**[^9] que ![ref8]un  comportamiento  impuesto  por  amenazas,  incentivos  o  restricciones externas. Este factor es el elemento central de la teoría ya que es **necesario para inferir una disposición interna**. 
+1. Los efectos no-comunes o distintivos de la acción aumentan la inferencia correspondiente.
+
+   Los efectos **comunes** de distintos comportamientos**:** 
+
+- no proporcionan información sobre la intención del actor
+- podrían no haber sido decisivos para la elección de una acción correcta
+- se hubieran obtenido igual con la acción alternativa** 
+
+Los efectos **distintivos**, los que no comparten dos acciones alternativas: 
+
+- proporcionan  la  información  necesaria  para  realizar  una  inferencia correspondiente
+- **Si son  varios los efectos distintivos:** la información para hacer una inferencia correspondiente se complica → es  difícil determinar cuál de 
+
+  ellos  era  el  que  el  actor,  por  sus  características  personales,  tenía intención de lograr.  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.216.png)
+
+La probabilidad de hacer una inferencia correspondiente **aumenta** con **pocos ![ref4]efectos no comunes** entre dos alternativas de acción.![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.217.png)
+
+Si  los  comportamientos  producen  una  pequeña  cantidad  de  efectos diferentes  (es  decir,  pocos  efectos  no  comunes,  por  ejemplo,  el comportamiento A produce solo terror y el comportamiento B solo produce alegría), **entonces la elección del comportamiento nos informa sobre la disposición de esa persona**[^10]. 
+
+3. Los  efectos  poco  deseables  de  la  acción:  aumentan  la  inferencia correspondiente.
+- El  comportamiento  **socialmente  deseable**:  nos  dice  poco  sobre  la disposición de una persona, es probable que esté controlado por las normas sociales.
+- El comportamiento **socialmente indeseable**: mejor base para realizar una inferencia correspondiente. Existe una relación entre **los efectos no comunes**  y  la  **deseabilidad**  como  determinantes  de  la **correspondencia**: la mayor correspondencia se dará cuando los efectos no comunes sean pocos y la deseabilidad social sea baja. ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.218.png)correspondencia = efectos no comunes + deseabilidad 
+- correspondencia = ↓ efectos no comunes + ↓ deseabilidad social 
+4. Relevancia hedónica: Se realizan más inferencias si la conducta del actor tiene consecuencias positivas o negativas para el observador. Cuando tiene relevancia hedónica para el observador:
+- El observador agrupará los efectos tanto de la acción elegida como de la no elegida en función del **significado afectivo** que tienen para él. Al agrupar los efectos **se reducen los no comunes** y es más probable la inferencia correspondiente.[^11]
+- Si la acción tiene **múltiples efectos:** se tiende a tomar como base para realizar la correspondencia el que tiene más relevancia hedónica para el perceptor (Ross y Fletcher, 1985). 
+
+  Si un alumno universitario decide doctorarse en Psicología Social en vez de en  Psicología  Básica,  y  el  observador  es  profesor  de  la  primera especialidad, de los diversos efectos que esa elección pueda tener para el alumno, el profesor valorará más un efecto como el interés de sus clases, que  otros  como  el  que  esa  especialidad  le  permita  tener  mayores probabilidades de trabajo.
+
+5. PERSONALISMO: hacemos más inferencias correspondientes cuando el comportamiento  de  los  demás  parece  tener  la  **intención  directa**  de beneficiarnos o perjudicarnos. 
+
+**Diferencia entre PERSONALISMO y RELEVANCIA HEDÓNICA**: en el caso de la **relevancia hedónica**, la conducta del actor tiene consecuencias para nosotros, pero no tiene por qué ir dirigida directamente para dañarnos o beneficiarnos. 
+
+persona que busca causar miedo o felicidad en los demás. Su elección de comportamiento nos da pistas sobre su personalidad o cómo les gusta interactuar con los demás.
+
+En algunas universidades americanas los alumnos prefieren no tener muchos ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.219.png)compañeros asiáticos en clase, ya que suelen sacar muy buenas notas e implica que  el  punto  de  corte  del  aprobado  suba  (por  ejemplo,  a  un  7).  Las calificaciones de estos alumnos no van dirigidas directamente a dañar al resto de compañeros, pues todos ellos quieren obtener la calificación máxima. Por lo que sí tienen relevancia hedónica para el perceptor, pero no personalismo. 
+
+La teoría de las inferencias correspondientes ha recibido un  apoyo parcial  en la investigación. Por ejemplo, esta teoría establece que la combinación entre **efectos no-comunes** y **baja deseabilidad social** será la situación en la que con  mayor probabilidad  se  hacen  inferencias  correspondientes,  siempre  y  cuando  el comportamiento haya sido **libremente elegido**. 
+
+- prob. inferencias correspondientes = efectos  no comunes + ↓ deseabilidad social + libre elección de comportamiento 
+
+EXPERIMENTO: Fidel Castro, Jones y Harris (1967)![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.220.png)
+
+Se les presentan a los participantes dos ensayos: un escrito a favor o en contra de Fidel Castro, indicándoles al final del texto si quien lo había escrito había sido obligado a hacerlo o lo hizo libremente.
+
+VD: ideología política de la persona que escribe el texto.
+
+Expectativa  investigadores:  que  la  persona  que  había  escrito  el  texto libremente y a favor de Castro (efecto no-comun y baja deseabilidad) fuese donde se indicase por parte de los participantes que el autor estaba a favor de Castro (inferencia correspondiente).   ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.221.png)
+
+Libre  elección  =  supuesto  central  de  la  teoría.  
+
+RESULTADOS: los participantes indicaron  que la persona que escribía el texto era  simpatizante  cuando  el  texto  estaba  a  favor de Castro y no en contra, sucedía lo  mismo en la condición en la que estaba  obligado a escribir a favor. 
+
+Parece ser que un  efecto no-común y poco deseable también promovía la inferencia  correspondiente  incluso  cuando  la  acción  dependía  de  causas externas (forzar a escribir a favor de Castro).![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.222.png)
+
+3. Procesos  controlados y espontáneos de atribución: el modelo de covariación y los esquemas causales (KELLEY) 
+
+La **Teoría de la Atribución de  Kelley**, amplía las teorías anteriores intentando encontrar el origen de la acción. A diferencia de las teorías anteriores, incluye:
+
+- Las  situaciones  en  las  que  las  personas  solo  tienen  información  sobre **acontecimientos únicos**. 
+- Aquellas en las que pueden **comparar múltiples casos del mismo suceso** 
+- **sucesos semejantes.![ref12]**
+
+Además, detalla **la forma en la que se produce** el proceso de atribución:
+
+- **HETEROATRIBUCIÓN**:  En  la  observación  del  comportamiento  de  **otras personas** 
+- **AUTOATRIBUCIÓN**: observación del comportamiento **de uno mismo**
+- Observación del **ambiente**. 
+1. El modelo de covariación 
+
+Para  Kelley,  la  inferencia  para  localizar  la  causa  del  efecto  se  puede  realizar observando la covariación de diferentes causas potenciales con dicho efecto, como en un experimento  **“el efecto se atribuye a una condición que está presente cuando el efecto también lo está, y que está ausente cuando el efecto también está ausente”** así el efecto se atribuye al factor con el que covaría. 
+
+El modelo de covariación sólo es aplicable cuando el observador tiene información sobre **más de un** **suceso** o sobre **diferentes casos de un suceso**. 
+
+Kelley distingue **tres factores:**
+
+- La **persona** 
+- El **estímulo** 
+- La **situación/circunstancias**
+
+La  atribución  de  la  respuesta  de  una  **persona  estímulo** [^12] en  una  determinada **situación** dependerá del grado de las siguientes fuentes de información: 
+
+1. Consenso con las respuestas de otras personas en esa situación. El ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.223.png)consenso  será  alto  cuando  todos  o  la  mayoría  de  los  individuos observados se comporten como **la** **persona estímulo.**
+1. Consistencia con la forma en la que esa persona  ha respondido  a ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.224.png)ese estímulo en otras ocasiones.  
+1. Distintividad con respecto a la manera en que la persona responde ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.225.png)a otros estímulos.  
+
+Estas tres fuentes de información se pueden configurar según su **intensidad** *(alta* 
+
+- *baja)* dando como resultado la posibilidad de realizar una atribución a la persona, al  estímulo o a las  circunstancias. Así, se observa que existen  **8** configuraciones informativas **(2 x 2 x 2).** 
+
+  Hay  dos  niños  jugando  en  el  recreo  del  colegio  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.226.png)(circunstancia), y uno de ellos, Alberto (la persona) le  pone  la  zancadilla  al  otro,  Raúl  (el  estímulo).  Nos  preguntamos:  *¿por  qué  Alberto  le  ha  puesto  la  zancadilla a Raúl?*  
+
+  Ej. Combinación 1:  
+
+  La  combinación  alta  entre  las  tres  fuentes  de  información (alta distintividad, alta consistencia y alto  consenso) nos da una atribución segura al estímulo.  
+
+- Alberto no pone la zancadilla a ningún otro niño (**↑** distintividad) 
+- Alberto siempre le pone la zancadilla a Raúl (**↑** consistencia) 
+- Otros niños le ponen también la zancadilla a Raúl (**↑** consenso) 
+
+Podemos inferir que la causa de este comportamiento está en el estímulo (Raúl). Ej. Combinación 2: 
+
+- Ningún otro niño le pone la zancadilla a Raúl (**↓** consenso) 
+- Alberto les pone la zancadilla a otros niños también (**↓** distintividad) 
+- Alberto ha puesto siempre la zancadilla a Raúl (**↑** consistencia) 
+
+Inferimos que es la persona (Alberto) la causa del comportamiento *(ej: niño agresivo).* La investigación empírica ha confirmado en general esta teoría y las predicciones ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.227.png)
+
+de Kelley se consideran un modelo normativo según Fiske y Taylor. 
+
+EXPERIMENTO: Comedia, McArthur (1972)![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.228.png)
+
+Presentó a los participantes breves episodios conductuales “Juan se divirtió en la  comedia”  e  información  sobre  consenso,  consistencia  y  distintividad.  Y confirmó la teoría anterior:
+
+Se podría atribuir el efecto a Juan (persona) si él fuera el único que se divirtió con la comedia (bajo consenso), si esta tuvo el mismo efecto en él en ocasiones anteriores  (alta consistencia) y si Juan también suele reírse cuando ve otras comedias (baja distintividad) 
+
+Por otro lado, se ha **criticado** que el principio de covariación que lo sustenta **no e ![ref3]s ![ref4]adecuado para realizar inferencias de causalidad**[^13], ya que  **la correlación no significa causación** (Hewstone, 1989).![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.229.png)
+
+correlación ≠ causación 
+
+Además, existen otras **limitaciones**: 
+
+- Cuando  la  **consistencia  es  baja**:  los  individuos  aplican  **el  principio  del descuento** que consiste en que no encuentran una relación entre causa y conducta, por lo que se buscan otras causas para explicar la conducta.
+- La información del **consenso** se **infrautiliza**. 
+- Se requieren múltiples observaciones para poder aplicar la covariación, es decir, necesitamos **mucha información** para realizar el proceso atributivo.
+- Es  un  modelo  **excesivamente**  **racional**,  y  en  ocasiones  la  atribución  se realiza de forma espontánea.
+2. Los esquemas causales
+
+Debido a las críticas, Kelley propone la existencia de unos esquemas causales para hacer atribuciones cuando la  información que recibe la persona es  **insuficiente, confusa  o  está  distorsionada**,  por  ejemplo,  cuando  se  aplica  el  principio  de descuento o la combinación de las dimensiones impide llegar a una atribución clara 
+
+*(ej: bajo consenso, distintividad y consistencia).*
+
+De esta forma define un  **esquema causal** como una concepción general que la ![ref8]persona  tiene  sobre  cómo  interactúan  un  determinado  tipo  de  causas  para producir un tipo de efecto concreto. 
+
+Se basa en la teoría  de  Heider, concretamente en la idea de que un fenómeno o acción  pueden  tener  múltiples  posibles  causas.  Kelley  propone  **dos  tipos** **principales de esquemas**: 
+
+1. Esquemas de causas  suficientes múltiples: cuando un efecto ocurre por la intervención de al menos una de las causas presentes en la situación, 
+- por todas ellas juntas. 
+
+  Para explicar el aprobado de un examen sencillo basta con atribuir  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.230.png)
+
+  que se trataba de una tarea sencilla, sin necesidad de acudir a otras  
+
+  causas.   
+
+- Puede actuar el **principio atributivo de desestimación** cuando el papel de una de las causas presentes en una situación disminuye por la presencia de las otras causas posibles.
+
+  El empleado que alaba a su jefe es posible que sea amable, pero también que quiera un aumento de sueldo.
+
+2. Esquema de causas necesarias múltiples: en una situación en la que se dan varias causas es necesario que actúen conjuntamente todas ellas para que se produzca el efecto. 
+
+   En el caso de aprobar un examen  difícil, además del esfuerzo, es necesario que se tenga la capacidad necesaria.![ref12]
+
+En ambos esquemas se aplica  **el principio atributivo de  aumento** por el que  el papel  de  una  causa  para  producir  un  efecto  **aumenta  si  existe  una  causa inhibitoria** en el momento en el que se produce el efecto. Por ejemplo, que sea el jefe el que alabe al empleado nos hace dar más importancia a sus  características personales, puesto que  la diferencia de  estatus en este sentido  sería una fuerza inhibitoria. 
+
+Por otro lado, existen situaciones en las que **solo una causa** determina el proceso de atribución:  
+
+Es  el  caso  del  **comportamiento  moral**,  donde  los  perceptores ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.231.png)![ref8]entienden que sólo los individuos inmorales se comportan de manera inmoral (sólo es necesaria una causa). 
+
+De esta forma, se deduce que la presencia de un comportamiento inmoral (un robo 
+
+- una infidelidad) implica directamente que:
+- el actor es **inmoral**, o 
+- **esquema de causas necesarias múltiples** 
+
+Sin  embargo,  los  perceptores  emplean  el  **esquema  de  causas  suficientes múltiples** para explicar el comportamiento moral. Una  **disposición moral** puede ser suficiente para un comportamiento moral,  pero no es necesaria, puesto que tanto personas morales como inmorales exhibirán este comportamiento cuando les sea ventajoso (Reader y cols., 1982).  ![ref3]
+
+Estos esquemas causales son el resultado de **procesos automáticos**. A menudo no dedicamos mucho esfuerzo en realizar una atribución causal, y es en aquellos casos ![ref4]en los que nos encontramos con un **evento inesperado** cuando entraremos en un procesamiento elaborado. ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.232.png)
+
+Esto se debe a que en las ocasiones **inesperadas** no sabremos explicar la conducta del actor a través de esquemas, o tengan un mayor impacto sobre nosotros, por lo que necesitaremos realizar una atribución causal precisa. 
+
+En el lado opuesto, cuando los eventos de nuestra vida diaria son  **esperados** no ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.233.png)nos involucramos en un proceso elaborado para determinar una atribución causal. Según  Kelley  (1973)  cuando  los  eventos  se  ajustan  fácilmente  a  los  esquemas causales existentes, **confiamos** en ellos en lugar de pensar mucho sobre por qué ocurrieron los eventos. 
+
+Estos **esquemas causales** provienen de dos fuentes: 
+
+1. Nuestra experiencia personal 
+1. Conocimientos culturales generales![ref12]
+
+Cuando  un  evento  que  observamos  **no  es  particularmente  inesperado  o ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.234.png)importante** para nosotros  y, además, **no se ajusta fácilmente** a un esquema ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.235.png)causal obvio, es probable que basemos nuestra atribución causal en cualquier factor: 
+
+- que sea **visualmente** muy destacado  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.236.png)
+- fácilmente accesible en la **memoria** ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.237.png)
+
+  EXPERIMENTO: Discusión, Taylor y Fiske (1975) ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.238.png)
+
+Los participantes escuchaban una discusión  grupal en una mesa ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.239.png)contigua, en la que había un miembro que se destacó visualmente (una raza o género distinto al resto).
+
+Resultados:  los participantes tendían a pensar que  el miembro visualmente destacado era el que tenía el mayor efecto en la  discusión. Cuando el grupo incluía una sola mujer, se la consideraba como la mayor responsable causal de 
+
+la discusión. ![ref12]
+
+![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.240.png)
+
+|PENSAMIENTO MÁGICO **(T2)![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.241.png)**|
+| - |
+|<p>El pensamiento mágico es la tendencia a creer que pensar sobre un evento antes de que ocurra, puede tener ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.242.png)influencia o ser determinante en dicho evento. Es un claro ejemplo de:</p><p>- Esquema de causas suficientes múltiples </p><p>- Principio de desestimación </p><p>Este tipo de atribución es una forma de explicar la causa de un evento determinado. Pero es un tipo especial de atribución porque va más allá de nuestra comprensión científica de la causalidad, y racionalmente es poco realista que las cosas ocurran sólo por pensarlas.</p><p>Niños:  Este  tipo  de  pensamiento  se  desarrolla  en  el  periodo  preoperatorio  (entre  2-7  años).  Freud (1913/1950) propuso que los niños desarrollan esta creencia porque sus pensamientos a veces parecen materializar lo que quieren (los regalos de los Reyes Magos). Si un niño tiene hambre, pensará en comida y tal vez llore, y los padres le darán comida.</p><p>En la edad adulta: </p><p>- Langer (1975) demuestra como los individuos a los que se les permite comprar un número de lotería donde pueden elegir ellos mismos el número tienen la creencia de que tienen más probabilidades de ganar que si le diesen un número aleatorio. Esta ilusión de control sobreestima nuestra capacidad de controlar resultados que realmente son aleatorios o fortuitos.</p><p>- Pronin y cols. (2006) inducían a los participantes de un experimento a pensar pensamientos de ánimo hacia un jugador que va a tirar un tiro libre (¡puedes hacerlo!), al encestar, los participantes sentían cierto grado de responsabilidad en el acontecimiento. Lo mismo con el ejemplo del vudú y el dolor de cabeza del tema anterior.</p><p>El pensamiento mágico también se produce a  nivel grupal, puede  observarse en rituales religiosos como observar un tabú determinado.</p>|
+
+4\.**  CONSECUENCIAS DE LAS ATRIBUCIONES: LA T016 EORÍA DE LA MOTIVACIÓN 
+
+DE LOGRO DE WEINER![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.243.png)
+
+Weiner  aplica  las  teorías  de  Heider  y  Kelley  a  la  conducta  de  logro,  haciendo aportaciones en:
+
+- El campo teórico → de la atribución
+- La dimensión aplicada → a la motivación de logro
+
+**La teoría de la motivación de logro** de  Weiner (1985) propone que la atribución ![ref8]causal de  conductas de logro influye sobre las  **emociones** y las  **expectativas**. Introduce  la  **mediación  cognitiva**  (atribución  causal)  entre  el  **estímulo**,  las **respuestas afectivas** y las  **expectativas**, que influirán en último término en la **motivación**. Por ello, se considera la atribución causal como elemento central en la motivación de logro.
+
+![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.244.jpeg)
+
+Este  modelo  explica  la  **conducta  de  logro**  mediante  atribuciones  causales percibidas por las personas sobre sus **resultados**.  
+
+- Iniciamos una secuencia motivacional cuando  **obtenemos resultados de éxito o fracaso**, por lo que se experimentarán sentimientos de felicidad o frustración.  
+- Después,  iniciaremos  un  **proceso  de  búsqueda**  (proceso  de  atribución causal) para establecer la causa de esos éxitos o fracasos.  
+
+Weiner  considera  que  estas  **emociones**  (felicidad  o  frustración-tristeza)  son **independientes**  de  la  atribución,  ya  que  son  directamente  **dependientes**  del resultado, es decir, previas al proceso de atribución causal. ![ref12]
+
+![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.245.jpeg)
+
+
+Por otro lado, en el contexto de la conducta de logro, aunque el número de causas puede  ser  alto,  todas  ellas  pueden  analizarse  en  base  a  ciertas  **dimensiones causales**: *locus de causalidad, estabilidad y controlabilidad*. De esta manera, Weiner ![ref8]establece ocho celdas donde pone la  estructura de la percepción causal. Tras lo cual, se producen las  **consecuencias  psicológicas** en el proceso  (emociones y expectativas) que influirán en la conducta futura. 
+
+A través de estas **dimensiones** se situará la causa en particular entre los extremos que van a definir cada dimensión. La importancia de estas dimensiones se debe a que se encuentran relacionadas con **expectativas** y **emociones** específicas, que en este caso sí son **dependientes** de la atribución causal. 
+
+Estas **dimensiones** son: 
+
+1. LOCUS DE CAUSALIDAD: indican si una acción o sus resultados se atribuyen a factores internos o externos a la persona que la realiza. 
+- Relacionada con sentimientos de **autoestima** y **orgullo**. ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.246.png)
+- Cuanto  más  **interna**  sea  la  atribución  que  realiza  el individuo de la conducta de logro,  mayor magnitud de emociones si se logra o no el objetivo.
+2. ESTABILIDAD: muestra si una causa no varía a lo largo del tiempo. 
+- Relacionada con expectativas y sentimientos de **esperanza-desesperanza**. 
+- Cuanto  **más estable** sea la situación  *(las matemáticas casi ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.247.png)siempre me resultan muy difíciles, o el profesor de lengua suele ser  muy  estricto),*  más  sentimientos  de  desesperanza  se pueden generar a través del proceso de atribución causal, aumentando  o  disminuyendo  las  expectativas  de  logro futuro. 
+3. CONTROLABILIDAD:  indicará  el  grado  en  que  una  persona  posee  control voluntario sobre la causa. 
+- Relacionada con la motivación y emociones de **relación social**:  
+- **situaciones  controlables**: culpabilidad y vergüenza  hacia ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.248.png)uno mismo 
+- **situaciones incontrolables:** compasión, gratitud e ira hacia los demás 
+
+18  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.249.png)![ref12]
+
+
+
+De esta forma, según Weiner podríamos **predecir la conducta** si atendemos al tipo de **emoción** que el proceso de atribución causal promueve, ya que las emociones influyen en la motivación hacia el logro futuro. Asimismo, refleja la dimensión causal en la que el individuo se centra.
+
+Por ejemplo, ante un fracaso *(un suspenso)* la persona puede sentir sentimientos de culpabilidad  por  el  resultado  académico  **(dimensión  de  controlabilidad)** realizando una atribución causal controlable (no me he esforzado nada). Al mismo tiempo, estos estímulos  pueden construir un modo de  **motivar** para no volver a tener este tipo de resultados en el futuro *(recuperar la asignatura).*  
+
+Weiner destaca el  **papel mediacional de la emoción y las expectativas** en su teoría porque conectan directamente causas antecedentes con la conducta futura. 
+
+Es más,  Weiner y Grham (1989) hacen referencia a  **emociones** que denominan **sociales**  *(ira,  compasión,  culpabilidad,  gratitud…)*  y  que  se  relacionan  con  las dimensiones de **locus de causalidad** y de  **controlabilidad**. Es decir, a emociones como: 
+
+- la **ira** o la **vergüenza** les seguirían, sistemáticamente, conductas de rechazo 
+  - retirada del objeto de motivación de logro
+- la **gratitud**, la **compasión** y la **culpabilidad** promoverán la aproximación al objeto motivador
+
+4\.1** La dimensión de estabilidad
+
+Adicionalmente a las emociones, el modelo también contempla las  **expectativas ![ref8]**como  mediadoras  entre  la  **atribución**  y  la  **conducta**.  Mediación  realizada, principalmente, a través de la dimensión de estabilidad. ![ref18]
+
+Las **expectativas** serán dependientes de la estabilidad atribuida a la causa.  ![ref4]
+
+El modelo atributivo de  Weiner relaciona las  expectativas con la dimensión  de estabilidad a través del  **principio de expectativa** “los  cambios de expectativa de éxito después de un resultado están influidos por la **inestabilidad** percibida de la causa”, y sus **tres colorarios**[^14]: 
+
+1. Si el resultado se adscribe a una **causa estable**: existirá una mayor certeza de obtener el mismo resultado en el futuro.
+1. Si el resultado es adscrito a una  **causa inestable**: se percibirá una mayor probabilidad de no volver a obtener ese mismo resultado.
+1. Se  estima  una  mayor  probabilidad  de  volver  a  obtener  resultados procedentes de causas atribuidas a factores **inestables**. 
+
+Es  decir,  la  **estabilidad**  se  relaciona  con  el  **logro  futuro**  a  través  de  las **expectativas**, y esto depende además de tipo de resultado obtenido.
+
+- Si se ha obtenido un  **éxito** y se estima una  **alta estabilidad**, se crearán expectativas favorables de conseguir los mismos resultados. 
+- Una  **alta estabilidad** atribuida a la causa  y un  **fracaso previo**, generan expectativas desfavorables. 
+
+Este  patrón  se  invierte  en  el  caso  de  que  se  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.251.png)perciba una **baja estabilidad**, ya que, si obtuvo un  **fracaso  previo**,  se  generan  expectativas  favorables ya que existe una mayor probabilidad  de cambio de resultado. Sin embargo, **se generan  expectativas  desfavorables si se ha tenido un  éxito con anterioridad**.  ![ref12]
+
+![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.252.png)
+
+|ATRIBUCIONES CAUSALES: PROFESORES **(De la Torre y Godoy, 2002)![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.253.png)**|
+| - |
+|<p>Este experimento se centra en la aplicación del  modelo de  Weiner con docentes que imparten clase en ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.254.png)centros de enseñanza. La hipótesis inicial se centra en que las causas a las que los docentes atribuyen los resultados que obtienen sus alumnos pueden determinar la conducta que mantienen con los mismos (efecto Pigmalión). Esto influye en las atribuciones causales que los alumnos hacen de su propio éxito y fracaso académico y, por tanto, sobre su motivación de logro. </p><p>El experimento consiste en instruir a los docentes en el modelo atributivo de Weiner, habiendo otro grupo de control que no recibe esta formación. </p><p>A los docentes formados, se les promueve que atribuyan de sus alumnos:</p><p>- Éxito → causas internas, controlables y estables </p><p>- Fracasos → causas internas, controlables e inestables </p><p>Las predicciones del modelo sobre las dimensiones son:</p><p>1. Locus  de  causalidad:  la  atribución  del  éxito  a  causas  internas  produce  emociones  positivas (autoestima y orgullo) mientras que el fracaso produce emociones negativas.</p><p>2. Controlabilidad: atribuir el éxito/fracaso a causas controlables produce motivación y persistencia y, posiblemente, mayor rendimiento futuro.</p><p>3. Estabilidad (dimensión central): *pueden influir en el logro futuro si producen efecto.*</p><p>a. Éxito → causas estables: sentimientos de esperanza en alcanzar el objetivo</p><p>b. Fracasos → causas inestables: no se generan sentimientos de desesperanza o indefensión </p><p>RESULTADOS: los alumnos del grupo experimental obtuvieron calificaciones superiores a los alumnos del grupo de control, durante la investigación,  e incluso, cinco meses después de ésta. También, hubo un segundo objetivo: disminuir los factores psicológicos negativos  asociados a la docencia, los resultados mostraron una  reducción del estrés laboral (burnout), aunque no aparecieron diferencias en el nivel de depresión ni de ansiedad.</p><p>El cambio de estilo atributivo pone en manifiesto que además de modificar las expectativas que se poseen sobre los alumnos, repercutió en la  motivación docente y su estado de ánimo, ya que  se redujo el estrés laboral, lo que influye en la mejore del rendimiento de los alumnos. </p>|
+
+5\.**  ERRORES Y SESGOS ATRIBUTIVOS![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.255.png)
+
+Como  en  otras  áreas  de  la  cognición  social,  los  sesgos  y  errores  atributivos permiten conocer mejor los procesos de atribución y cómo ocurren en realidad.
+
+1. El error fundamental y el sesgo de correspondencia ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.256.png)
+
+Se origina en la teoría de  **Heider**, donde  **el error fundamental de la  atribución o sesgo de correspondencia** hace referencia a “la tenencia  ![ref8]
+
+a atribuir la conducta exclusivamente a disposiciones del actor e ignorar el poder de los determinantes situaciones de la conducta de los individuos a través de las diferentes situaciones” (Nisbett y Ross, 1980).
+
+Si hacemos referencia al modelo de  **Kelley**, se observa con mayor frecuencia la **covariación del efecto con la persona**, que con el estímulo *(infrautilización de la información de consenso)*  o las  circunstancias *(ignorar la influencia de la situación sobre el comportamiento).* 
+
+- Ejemplos de esto vistos anteriormente: 
+- experimento McArthur (Juan y la comedia) → *más información sobre la persona que sobre el estímulo o la circunstancia*
+- 3 experimentos de Jones y Harris (Fidel Castro) → *explican este sesgo*
+
+Los **riesgos** de la existencia de este error los destacan Fiske y Taylor (1984) al poner el foco sobre la posibilidad de que se perciba como responsables de su situación a ![ref8]**personas que son víctimas de las circunstancias**. 
+
+- Una mujer trabajadora puede percibirse como perezosa cuando falla ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.257.png)en algún aspecto de su trabajo por exceso de cargas familiares.
+- Se  puede  pensar  que  un  niño  que  suspende  los  exámenes  no estudia,  cuando  en  realidad  está  sufriendo  un  proceso  de desestructuración familiar.
+
+Este sesgo se explica por **determinantes** **cognitivos** y **socioculturales**: 
+
+**FACTORES COGNITIVOS**: se considera el  error fundamental como un  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.258.png)**efecto  de  la  “*saliencia*”**  del  actor  sobre  la  situación  (Heider,  1958):  Cuando se observa una persona, lo que destaca es su conducta, mientras  
+
+que  los  factores  de  fondo  o  situaciones  pueden  pasar  inadvertidos  para  el observador. 
+
+**FACTORES SOCIOCULTURALES:** como son las creencias en un  **mundo  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.259.png)justo**, muy habituales en  *culturas individualistas* como las occidentales.  Lerner (1980) muestra cómo tenemos la tendencia a pensar que el mundo  
+
+es un  lugar justo en que  quien se esfuerza consigue el éxito, o que las cosas positivas le suceden a la gente honesta.
+
+- Una forma de mantener esa creencia es a través de **atribuciones internas**: si las personas están fuertemente motivadas en creer que el mundo es justo, es muy probable que **aparezcan procesos de culpabilización de la víctima**: *pobreza, contraer enfermedades, ser víctima de violación o maltrato…* olvidando los determinantes situacionales del proceso. ![ref12]
+
+Después de 40 años de investigación sobre el error fundamental de atribución y el ![ref8]sesgo de correspondencia, se ha comenzado a mostrar sus  **diferencias**. Según **Gawroski (2004)**: 
+
+- **El  sesgo  de  correspondencia:**  es  una  **forma  de  procesamiento  de  la información**.  Los  seres  humanos  realizan  erróneamente  inferencias correspondientes  a  partir  de  la  observación  de  una  conducta  forzada situacionalmente[^15]. 
+- **El error fundamental de atribución:** es una tendencia general a **preferir las atribuciones personales**, o disposicionales,  ignorando las influencias situacionales sobre el comportamiento, que estaría afectada por la **cultura**. 
+- Culturas **individualistas**: muy afectados por este error
+- Culturas **colectivistas**: no se ven afectados por él, son más conscientes de la situación sobre el comportamiento. 
+
+*situación > comportamiento* 
+
+La evidencia de esta diferenciación se debe a la realización de experimentos en distintas  culturas  que  varían  en  la  dimensión  individualismo-colectivismo. Miyamoto y Kitayama (2002) muestran que **cuando la conducta es muy distintiva** (como en el experimento de  Jones y Harris, 1967 *Fidel Castro*), **estas diferencias desaparecen**, y japoneses (*colectivistas*) y americanos (*individualistas*) aplican igual el **sesgo de correspondencia**. 
+
+En vista de esta distinción,  la evidencia científica es bastante consistente en la hipótesis  de  que:  los  miembros  de  **culturas  individualistas**  tienen  un  sesgo cognitivo  persistente  ***(error  fundamental  de  la  atribución)***  que  **favorece  la información  disposicional**  o  **atribución**  **interna**  y  que  los  miembros  de  las **culturas colectivistas** muestran menos este sesgo. Pero, de ninguna manera esto 
+
+implica  que  miembros  de  ambas  culturas  apliquen  en  la  misma  medida  la **inferencia  correspondiente**  si  tienen  una  buena  razón  para  no  atender,  o descontar, los determinantes situacionales[^16] ***(sesgo de correspondencia)***. 
+
+2. Infrautilización de la información de consenso
+
+A partir del **modelo de covariación de Kelley** sería de esperar que la persona que realiza la atribución usara en igual medida las tres fuentes de información causal **(consenso, distintividad y consistencia)**.  
+
+Sin embargo, el estudio de  McArthur *(Juan y comedia)* permitió observar que  **la información de consenso**  era** menos explicativa que las  otras dos fuentes de información (distintividad y consistencia). Es decir, los participantes no daban igual importancia a la información sobre si muchas personas se comportaban como la persona estímulo en la misma situación (***consenso***) que a la de la misma persona ante situaciones similares o diferentes estímulos. 
+
+muchas personas, misma situación, mismo comportamiento → consenso misma persona, diferentes situaciones, mismo comportamiento 
+
+Resulta de gran información la comparación con las otras personas que están en la **misma  situación**,  sobre  todo  en  circunstancias  de  alta  **incertidumbre**  y **ambigüedad**. 
+
+Sin embargo, según  Fiske y Taylor (1984) «aunque  la información de consenso puede  cambiar  nuestra  percepción  de  cuán  común  es  una  experiencia,  la experiencia en sí misma no cambia» *(no la explica)*. 
+
+También, puede ocurrir que este tipo de información no se considere ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.260.png)tan de **confianza** como otro tipo de observación o experiencia. De esta 
+
+forma,  muchas  veces,  después  de  obtener  información  cuánto  ha gustado algo a otras personas *(una película o un discurso político)*, para 
+
+evaluar  la  **credibilidad**  de  esta  información  nos  interesemos  por  el  tipo  de personas que son y si se parecen a nosotros.  
+
+La  información  que  recibimos  sobre  el  comportamiento  o  reacción  de  otras personas ante una determinada situación, más allá de nuestra propia experiencia directa, necesita pasar un  filtro que indique en qué medida es válida y relevante para la situación. 
+
+3. El efecto del falso consenso
+
+La información de consenso, a parte de infrautilizarse, también  la distorsiona el observador. El **sesgo de falso consenso** es la tendencia de las personas a creer que su forma de actuar es la que harían los demás en una determinada situación, y que otras personas reaccionarán de la misma manera en la misma circunstancia.
+
+Como ejemplo Ross y cols. (1977) realizan un experimento donde proponen a unos estudiantes pasearse por el campus anunciando la apertura de un nuevo restaurante, lo destacable es que las personas que aceptan esta petición creen que el resto de las demás personas a las que se lo han propuesto también ha aceptado y lo mismo con las que lo han rechazado.![ref12]
+
+Las **explicaciones** planteadas son:
+
+- **Contacto selectivo**: las personas tendemos a  buscar a otras  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.261.png)personas  que  se  nos  parecen,  de  forma  que  juzgamos  el  comportamiento  de  los  demás  basándonos  en  nosotros  y  nuestros contactos (con preferencias similares). 
+- Puede considerarse una manera de **solucionar la ambigüedad ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.262.png)**de una situación o de responder cognitivamente ante ella. Si en  una  determinada  circunstancia  actuamos  de  cierta  manera,  podemos pensar que es la obvia y creer que las demás personas  harían lo mismo.
+- Puede  ser  que  intervenga  un  **mecanismo  de  defensa  del  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.263.png)autoestima**, ya que tenemos la necesidad de pensar que las  creencias propias son las correctas, de manera que se atribuyen  también a los otros para defender la imagen positiva de uno  mismo. 
+
+
+4. Atribuciones defensivas
+
+Una demostración clara de la influencia de la motivación en la atribución fue al estudiar la responsabilidad por un accidente (Walster, 1966): a través de un sencillo escenario  donde  un  coche  aparcado  caía  por  una  colina,  encontró  que  los observadores del accidente consideraban  **mayor la responsabilidad del dueño del coche** cuando las consecuencias del accidente eran  **graves** que cuando eran menos importantes. 
+
+De esta forma, el observador pone distancia entre lo ocurrido y la posibilidad de que  pudiera  sucederle  lo  mismo  a  él:  ver  al  propietario  como  el  culpable *(atribuyéndole la responsabilidad a la víctima)* le hace creer que a él no le pasaría lo mismo ya que hubiese actuado diferente para que el accidente no ocurriese.
+
+Sin embargo, percibir un accidente **leve** puede considerarse menos amenazante y por ello se puede percibir menos responsabilidad del implicado.  
+
+Posteriormente, Shaver (1970) aclara que la atribución defensiva depende de:
+
+- **Posibilidades** situaciones 
+- **Similitudes** personales 
+
+**Si se  parece personalmente al implicado** en el suceso negativo, el observador tiende a atribuir la acción a la **casualidad**.**  
+
+Por  el  contrario,  si  no  hay  similitud  entre  el  observador  del  acontecimiento amenazante  y  el  actor,  la  tendencia  del  primero  será  la  de  **atribuir  la responsabilidad de lo sucedido al implicado**.  
+
+no similitud + no posibilidad → implicado sí similitud → causalidad ![ref12]
+
+25 
+
+Psicología Social – Jaione A. (2023) ![ref1]
+
+Shaver (1975) describe la  **atribución defensiva**  como un  deseo por parte de lo ![ref18]s ![ref4]observadores de hacer cualquier atribución que pueda  **reducir la amenaza**  que representa la situación para ellos. ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.264.png)
+
+De  esta  forma,  aumentará  la  **atribución  interna  de  la  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.265.png)responsabilidad** de un accidente cuanto mayor sea la gravedad de  sus  consecuencias,  siempre  que  el  observador  se  considere  personalmente  distinto  al  actor  del  acontecimiento  y  con  posibilidades de encontrarse en una situación parecida. 
+
+ESTUDIO: ACCIDENTE LABORAL (Salminen, 1992) ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.266.png)
+
+La hipótesis de la atribución defensiva servía para explicar las diferencias en la forma en que cada una de las partes implicadas en un accidente laboral interpretaban las causas.
+
+- Las  víctimas  de  accidentes  laborales  serios  atribuyen  estos ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.267.png)accidentes a factores externos. 
+- Sus  compañeros  de  trabajo  atribuyen  a  la  víctima  la responsabilidad de la acción. 
+5. Atribuciones favorecedoras del yo
+
+Los sesgos favorecedores se han intentado explicar como un fenómeno **motivacional** y desde el **modelo de covariación** dende es posible entender que la explicación esté en el procesamiento de la información y, por tanto, que se trate de un **proceso cognitivo.** 
+
+**La influencia de la motivación en los procesos de atribución:**
+
+Se observa asimetría en las atribuciones en función del resultado logrado en la acción, tendemos a atribuir los:
+
+- **éxitos** a factores internos → *la capacidad o el esfuerzo.*
+- **SESGOS AUTOENSALZADORES:** aumenta la **autoestima ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.268.png)**personal.** 
+- *he aprobado* 
+- profesor:  *mis  alumnos  aprueban  por  mis  métodos didácticos* 
+- **fracasos** a elementos externos → *la mala suerte o la casualidad*
+- **SESGOS AUTOPROTECTORES:** nos protege la autoestima ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.269.png)reduciendo la sensación de estrés y malestar.
+- *me han suspendido*
+- profesor*: mis alumnos suspenden porque no se esfuerzan![ref12]*
+
+26 
+![ref1] Psicología Social – Jaione A. (2023) 
+
+**El proceso cognitivo desde el modelo de covariación**: 
+
+Se considera la posibilidad de que la persona pueda percibir la covariación entre su comportamiento y el éxito, pero no entre su comportamiento y el fracaso.
+
+ESTUDIO: MÉTODOS EDUCATIVOS Fosterling (2001) Johnson et al. (1964) ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.270.png)
+
+Un  profesor  pone  en  práctica  estrategias  didácticas  para  mejorar  la enseñanza y de esta forma, puede percibir  cómo los éxitos de sus alumnos covarían  con  su  esfuerzo  como  docente.  Sin  embargo,  al  no  desarrollar ninguna estrategia relacionada con el fracaso hará autoatribuciones externas 
+
+del fracaso, ya que es lo que percibe.
+
+Si los resultados del maestro los tuviera que explicar un  observador: él no podría observar la covariación entre el rendimiento del alumno y la estrategia del profesor, porque no tiene la conciencia del profesor en cuanto al cambio de estrategia. 
+
+Ross y Fletcher (1985) consideran que tanto los procesos **motivacionales** como los **cognitivos**  constituyen  la  base  de  estos  sesgos:  «personas  son  racionales  y racionalizadoras, algunas veces explican y otras justifican».![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.271.png)
+
+Por otro lado, se plantea que posiblemente tengamos la tendencia a  implicarnos en actividades en las que tenemos posibilidades de éxito porque poseemos las **capacidades** necesarias para realizarlas adecuadamente. Así, nos atribuiremos el éxito  por  nuestra  capacidad,  y  pensemos  en  la  mala  suerte  o  casualidad  si fracasamos. 
+
+` `En  cuanto  a  las  **consecuencias  para  la  adaptación  de  las ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.272.png)personas**  de  los  sesgos  favorecedores  del  yo,  en  contextos laborales y educativos, se ha observado que este sesgo se asocia con  **baja autoestima** y **sensación de malestar**, al aumentar la falta de implicación con el contexto académico o de trabajo. 
+
+En este sentido, no predice mayores niveles de logro, de manera que es posible que el  efecto positivo de las atribuciones de autoensalzamiento se produzca a  **corto plazo**, pero no a largo plazo (Robins y Beer, 2001).
+
+autoensalzamiento → bueno a CP / sin efecto a LP 
+
+6. Efecto actor/observador
+
+Es una extensión del **error fundamental** de atribución. 
+
+Se da cuando comparamos la atribución del comportamiento del otro (la que hace el **observador**) con la atribución del propio comportamiento (la que hace el **actor**). 
+
+Jones y Nisbett (1972) fueron quienes definieron el **efecto actor-observador** como «una  tendencia  persistente  del  **actor**  a  atribuir  sus  acciones  a  las  exigencias ambientales, mientras que el **observador** tiende a atribuir esas mismas acciones a disposiciones personales estables» 
+
+actor → exigencias ambientales ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.273.png)
+
+26  observador → disposiciones personales estables ![ref12]
+
+
+![ref1] Psicología Social – Jaione A. (2023) 
+
+Para que ocurra este efecto  no es necesario que en una situación concreta haya ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.274.png)una persona actuando y otra observando; se trata simplemente de la **comparación yo/otro** a la hora de hacer una inferencia causal sobre una acción. Nuestra timidez a  la  hora  de  hablar  un  idioma  extranjero  la  atribuimos  a  que  no  se  fomenta  la expresión oral en las clases que hemos recibido, pero la timidez ajena para lo mismo la asociamos a su torpeza con los idiomas.
+
+Cuando se trata de una situación que implica un  éxito frente a un fracaso, como una  tarea  académica  o  laboral,  pueden  entrar  en  juego  los  sesgos autoensalzadores o favorables al yo[^17] *(apartado anterior).* 
+
+Existen  varias  explicaciones  de  este  efecto  actor-observador,  como  las explicaciones de origen motivacional y lingüístico, pero la más estudiada se centra en  las  **“diferencias  en el  nivel  de información”**  entre  actor  y  observador:  la cantidad y tipo de información accesible al observador es diferente de la que es accesible al actor.
+
+- **El actor**: conoce sus propios sentimientos, intenciones e historia pasada, que le proporciona información de **consistencia** y **distintividad**. 
+  - está en mejor posición para valorar si los signos situacionales son facilitadores, neutros o inhibitorios para su conducta, y desestimar el papel de las causas me nos probables
+- **El  observador**:  tiene  poca  información  sobre  el  actor,  por  lo  que  hace inferencias a partir de una acción inmediata, de la que deduce que el actor se comporta casi siempre de la misma manera.
+
+Storms (1973) ilustra la “explicación perspectiva” a partir de la idea de que existe una **diferencia de perspectivas** entre actor y observador, supuso que cuando las personas perciben una situación desde un ángulo distinto al mostrado en primer lugar, pueden cambiar sus atribuciones.
+
+En el experimento, se grababa a dos personas teniendo una conversación ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.275.png)desde la perspectiva visual de cada una de ellas. Luego, se mostraba a los participantes el video desde la perspectiva de su interlocutor (la contraria). Esto provocaba un cambio en las atribuciones que los participantes hacían sobre los actores  y  observadores.  Si  como  actores  habían  realizado  atribuciones externas, desde la perspectiva del observador estas se volvían más internas. Mientras que, si como observadores habían hecho atribuciones internas desde la perspectiva del actor, estas se volvían más externas.
+
+Otros autores, manipulando la «saliencia» del actor (es decir, haciéndole más o menos perceptible para que atraiga más o menos la atención) y como resultado, podemos pensar que **la perspectiva visual**, como un elemento de la composición del grupo, influye en la saliencia y, por tanto, en la percepción de la influencia causal de una persona determinada (Nisbett y Ross, 1980). 
+
+También hay intervención de **aspectos motivacionales**, en de la  ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.276.png)
+
+Actor: 
+
+distinción entre **«uno mismo»** y los **«otros».** Haciendo probable 
+
+Elogio → atrb. Interna 
+
+que la autoatribución del **actor** esté más motivada por el deseo 
+
+Culpable → atrb. situacional de mantener la propia autoestima que las heteroatribuciones del 
+
+**observador**.   ![ref18]
+
+El  metaanálisis  desarrollado  por  Malle  (2006):  este  efecto  es  más  potente  si individuos o grupos muestran **rasgos muy distintivos**, si aumenta el conocimiento personal  del  otro  y  cuando  se  explican  hechos  hipotéticos.  La  **asimetría** ![ref4]característica del efecto se produce con eventos negativos, mientras que se invierte ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.277.png)con positivos. 
+
+El efecto actor-observador tiene  **implicaciones para las  relaciones ![](md/Aspose.Words.ef31fe30-39fd-431f-886c-9330939ce209.278.png)interpersonales e intergrupales:** cuando las cosas van mal en una 
+
+relación *(una amistad, un matrimonio o una alianza entre dos países)* es probable  que  cada  actor  vea  al  otro  como  responsable  de  los 
+
+problemas. Sin embargo, Storm (1973), sugiere que  **una forma de eliminar el efecto  intensificador  de  conflictos**  que  puede  promover  el  efecto  actor -
+
+observador es promover que se tome la perspectiva de la otra parte, para de esta forma calmar tensiones y promover un mayor consenso. ![ref12]
+
+29 
+![ref19] Psicología Social – Jaione A. (2023-2024) 
