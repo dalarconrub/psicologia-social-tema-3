@@ -595,7 +595,7 @@ Las **expectativas** dependerán de la estabilidad atribuida a la causa. Según 
 
 1. Si el resultado se atribuye a una **causa estable**, existirá una mayor certeza de obtener el mismo resultado en el futuro.
 2. Si el resultado se atribuye a una **causa inestable**, se percibe una mayor probabilidad de que el resultado cambie.
-3. Las expectativas de repetir un resultado serán más probables cuando la causa se considera **inestable**.
+3. Las expectativas de repetir un resultado serán más probables cuando la causa se considera **estable**.
 
 En resumen, la **estabilidad** se relaciona con el **logro futuro** a través de las **expectativas**, y estas dependen del tipo de resultado obtenido.
 
