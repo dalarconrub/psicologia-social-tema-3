@@ -809,7 +809,9 @@ Otros autores han manipulado la **“saliencia”** del actor (haciéndole más 
 También intervienen **aspectos motivacionales** en la distinción entre **"uno mismo"** y **"los otros"**. Esto hace que sea más probable que las **autoatribuciones del actor** estén motivadas por el deseo de mantener la propia autoestima, a diferencia de las heteroatribuciones que realiza el **observador**.
 
 Ejemplo de atribuciones motivacionales:
+
 - Elogio: atribución interna.
+
 - Culpa: atribución situacional.
 
 El metaanálisis de **Malle (2006)** muestra que este efecto es más potente si los individuos o grupos presentan **rasgos muy distintivos**, si hay un mayor conocimiento personal del otro y cuando se explican hechos hipotéticos. La **asimetría** característica del efecto se produce especialmente con eventos negativos, mientras que se invierte en eventos positivos.
